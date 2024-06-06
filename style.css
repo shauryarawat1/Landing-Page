@@ -1,0 +1,159 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.header {
+    background-color: #1F2937;
+    justify-content: space-between;
+}
+
+.secondary, .links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+.ceiling {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lowerhead {
+    display: flex;
+    justify-content: space-around;
+    gap: 16px;
+    padding: 64px;
+}
+
+.headimg {
+    height: 200px;
+    width: 400px;
+}
+
+.headertext {
+    width: 300px;
+}
+
+.upper {
+    background: royalblue;
+    border-radius: 8px;
+    color: white;
+    padding: 8px 24px;
+    margin-top : 8px;
+}
+
+.middle-one {
+    background-color: white;
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.info {
+    max-width: 200px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.mid {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.middle-two {
+    background-color: #E5E7EB;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style:italic;
+}
+
+.context {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    width: 600px;
+    margin: auto;
+}
+
+.source {
+    font-weight: bold;
+    float: right;
+}
+
+.middle-three {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    background-color: white;
+    justify-content: center;
+}
+
+.box {
+    padding-top: 32px;
+    background-color: #3882F6;
+    padding-bottom: 32px;
+    width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.boxtext {
+    width: 50px;
+}
+
+.shout {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.small {
+    color: white;
+}
+
+.lower {
+    border-radius: 8px;
+    color: white;
+    padding: 8px 24px;
+    background: #3882F6;
+}
